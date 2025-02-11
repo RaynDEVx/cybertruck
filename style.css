@@ -106,4 +106,7 @@ nav ul li a:hover{
     body::after{
         clip-path: circle(40% at bottom);
     }
+.content .image img{
+    width: 300px;
+}
 }
